@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 cd ./tools
 if [ -e ../_temp/new-system.fex ]
 then

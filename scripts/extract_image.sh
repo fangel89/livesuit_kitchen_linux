@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 if [ -d ./_extract ]
 then
 rm -vR ./_extract

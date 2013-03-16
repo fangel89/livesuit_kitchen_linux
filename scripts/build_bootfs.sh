@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 if [ -e ./_temp/bootfs/script.bin ] & [ -e ./_temp/bootfs/script0.bin ]
 then
   ./tools/fsbuild/fsbuild ./files/bootfs.ini ./files/split_xxxx.fex

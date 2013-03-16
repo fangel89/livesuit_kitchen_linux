@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 if [ -e ./_temp/root/cmd_line.cfg ]
 then
 cmd_line=`cat ./_temp/root/cmd_line.cfg`

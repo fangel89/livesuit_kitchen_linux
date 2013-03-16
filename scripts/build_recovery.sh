@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 if [ -e ./_temp/recovery/cmd_line.cfg ]
 then
 cmd_line=`cat ./_temp/recovery/cmd_line.cfg`

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 if [ ! -d ./_temp ]
 then
 mkdir ./_temp

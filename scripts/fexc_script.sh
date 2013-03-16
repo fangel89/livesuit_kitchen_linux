@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 if [ "$1" = 1 ]
 then
   if [ -e ./_temp/bootfs/script.bin ]

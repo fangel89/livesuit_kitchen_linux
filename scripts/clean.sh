@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 sudo rm -R ./_input/*
 sudo rm -R ./_output/*
 sudo rm -R ./_extract/*

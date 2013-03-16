@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 if [ ! -e ./_input/bootfs.fex ]
 then
   echo "copy original bootfs file"
